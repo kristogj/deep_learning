@@ -1,0 +1,10 @@
+EMOTIONS = "EMOTIONS"  # List of emotions to train on
+FOLDS = "FOLDS"  # Number of fold in k-fold
+EPOCHS = "EPOCHS"  # Number of epochs you would like to train
+NUM_COMPONENTS = "NUM_COMPONENTS"  # Number of principal components to use fra the pca
+PATH = "PATH"  # Path to images
+MODEL = "MODEL"  # Model you want to use
+BATCH = "BATCH"  # Boolean for Batch gradient descent
+LEARNING_RATE = "LEARNING_RATE"  # Learning rate for the model
+GRAPH_STD = "GRAPH_STD"  # Boolean telling if your are going to plot std or not
+TASK = "TASK"
